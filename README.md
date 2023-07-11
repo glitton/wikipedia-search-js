@@ -8,6 +8,6 @@
 
 - URLs used are located in the wiki-urls.js file
 
-#### John Smilga Project
+#### Thanks to John Smilga
 
 - This was based on John Smilga's async JavaScript project.
